@@ -7,9 +7,10 @@
   "theme_color": "#0d1117",
   "icons": [
     {
-      "src": "./Gemini_Generated_Image_3y8hh23y8hh23y8h.jpeg",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzBEMTExNyIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTI4IiBmaWxsPSIjMThBNkY5Ii8+PC9zdmc+",
       "sizes": "192x192 512x512",
-      "type": "image/jpeg"
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     }
   ]
 }
